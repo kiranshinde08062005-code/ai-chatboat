@@ -1,0 +1,5 @@
+{
+  "name": "AI-Chatbot on Cybersecurity Threat Predictor",
+  "description": "A proactive and intelligent system that predicts, detects, and prevents cybersecurity attacks in real time using hybrid AI models, and assists users through an interactive chatbot interface.",
+  "requestFramePermissions": []
+}
